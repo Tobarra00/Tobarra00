@@ -31,7 +31,7 @@ I've also practice SQL with: <a href="https://www.mysql.com/" target="_blank" re
 <br/><br/>
 The next thing I want to learn is: <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> 
  
-### Contact me:
+## Contact me:
 
 Linkedin: <a href="https://linkedin.com/in/pedro-tobarra-leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-tobarra-leal" height="20" width="20" /></a>
 <br/><br/>
