@@ -2,6 +2,7 @@
 
 I am a Python developer from Spain. I love programming and learning new stuff about technologies.
 <br/><br/>
+<b>Everything I've learned so far has been self-taught.</b>
 I am currently working as a technology consultant and practicing python programming in my free time. I really like web development from the backend side, and I have been really interested in approaching this world from the python side, since is the first lenguage I first started with and I feel the most confortable about. 
 
 - 🔭 I’m currently working on practice proyects.
