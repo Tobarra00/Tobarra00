@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Pedro 👋, welcome to my professional profile 🧑‍💻
 
+I'm a Python developer from Spain :
 <!--
 **Tobarra00/Tobarra00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
