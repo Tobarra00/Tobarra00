@@ -33,14 +33,11 @@ The next thing I want to learn is: <a href="https://www.docker.com/" target="_bl
  
 ### Contact me:
 
-Linkedin: [Pedro Tobarra Leal](www.linkedin.com/in/pedro-tobarra-leal) <a href="https://linkedin.com/in/pedro-tobarra-leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-tobarra-leal" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/pedro-tobarra-leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-tobarra-leal" height="20" width="20" /></a>
+<br/><br/>
+Linkedin: [Pedro Tobarra Leal](www.linkedin.com/in/pedro-tobarra-leal)  
 <br/>
 Email: [Pedro.tobarra.leal@gmail.com](mailto:pedro.tobarra.leal@gmail.com)
-
-
-
-
-
 
 <!--
 **Tobarra00/Tobarra00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
