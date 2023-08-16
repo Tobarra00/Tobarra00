@@ -1,8 +1,8 @@
-### Hi, I'm Pedro 👋, welcome to my professional profile 🧑‍💻
+## Hi, I'm Pedro 👋, welcome to my professional profile 🧑‍💻
 
 I'm a Python developer from Spain. I love programming and learning new stuff about technologies.
 
-## Contact me:
+### Contact me:
 
 Linkedin: [Pedro Tobarra Leal](www.linkedin.com/in/pedro-tobarra-leal)
 <br/>
