@@ -4,6 +4,7 @@ I'm a Python developer from Spain. I love programming and learning new stuff abo
 
 ## Contact me:
 Linkedin: [Pedro Tobarra Leal](www.linkedin.com/in/pedro-tobarra-leal)
+</br>
 Email: [Pedro.tobarra.leal@gmail.com](mailto:pedro.tobarra.leal@gmail.com)
 
 
