@@ -1,6 +1,12 @@
 ### Hi, I'm Pedro 👋, welcome to my professional profile 🧑‍💻
 
-I'm a Python developer from Spain :
+I'm a Python developer from Spain. I love programming and learning new stuff about technologies.
+
+## Contact me:
+Linkedin: [Pedro Tobarra Leal](www.linkedin.com/in/pedro-tobarra-leal)
+Email: [Pedro.tobarra.leal@gmail.com](mailto:pedro.tobarra.leal@gmail.com)
+
+
 <!--
 **Tobarra00/Tobarra00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
