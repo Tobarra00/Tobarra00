@@ -14,9 +14,8 @@ I am currently working as a technology consultant and practicing python programm
 
 Here are some of the webs I use to learn new stuff about the technologies and practice with many challenges.
 
-<a href="https://www.hackerrank.com/pedro tobarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pedro tobarra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tobarra00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tobarra00" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pedro_tobarra_l1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pedro_tobarra_l1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pedro_tobarra_l1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pedro_tobarra_l1" height="30" width="40" /></a>
 
 ## Languages and Tools:
 
