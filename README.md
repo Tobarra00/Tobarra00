@@ -35,6 +35,6 @@
 <h3>Contact me: 😜</h3>
 
 <ul>
-    <li>Linkedin: <a href="https://linkedin.com/in/pedro-tobarra-leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-tobarra-leal" height="20" width="20" /></a></li>
+    <li>Linkedin: <a href="https://linkedin.com/in/pedro-tobarra-leal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-tobarra-leal" height="20" width="20" /></a></li>
     <li>Email: <a href="(mailto:pedro.tobarra.leal@gmail.com)">Pedro.tobarra.leal@gmail.com</a></li>
 </ul>
