@@ -9,7 +9,7 @@
     <li>🔭 I’m currently working on practice proyects.</li>
     <li>🌱 I’m currently learning the Django framwork to work as a python web developer.</li>
     <li>👯 I’m looking to collaborate on python proyects, to learn and become an expert 😄🤞</li>
-    <li>📫 How to reach me: <a href="(mailto:pedro.tobarra.leal@gmail.com)">Pedro.tobarra.leal@gmail.com</a> </li>
+    <li>📫 How to reach me: <a href="mailto:pedro.tobarra.leal@gmail.com">Pedro.tobarra.leal@gmail.com</a> </li>
     <li>⚡ Fun fact: sports enthusiast :P 🏃</li>
 
 </ul>
@@ -36,5 +36,5 @@
 
 <ul>
     <li>Linkedin: <a href="https://linkedin.com/in/pedro-tobarra-leal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-tobarra-leal" height="20" width="20" /></a></li>
-    <li>Email: <a href="(mailto:pedro.tobarra.leal@gmail.com)">Pedro.tobarra.leal@gmail.com</a></li>
+    <li>Email: <a href="mailto:pedro.tobarra.leal@gmail.com">Pedro.tobarra.leal@gmail.com</a></li>
 </ul>
