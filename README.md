@@ -16,8 +16,8 @@
 
 <h3>Programming challenges📊</h3>
 <p>Here are some of the webs I use to learn new stuff about the technologies and practice with many challenges.</p>
-<p><a href="https://www.leetcode.com/tobarra00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tobarra00" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pedro_tobarra_l1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pedro_tobarra_l1" height="30" width="40" /></a></p>
+<p><a href="https://www.leetcode.com/tobarra00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tobarra00" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pedro_tobarra_l1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pedro_tobarra_l1" height="30" width="40" /></a></p>
 <p>You can also check my github repos and see some of my projects ✨.</p>
 
 <h3>Lenguages and tools 🛠️</h3>
