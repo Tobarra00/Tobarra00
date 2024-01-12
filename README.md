@@ -8,7 +8,7 @@
 <hr>
 <ul>
     <li>🔭 I’m currently working on practice proyects.</li>
-    <li>🌱 I’m currently learning the Django framwork to work as a python web developer.</li>
+    <li>🌱 I’m currently learning the Java and React.</li>
     <li>👯 I’m looking to collaborate on python proyects, to learn and become an expert 😄🤞</li>
     <li>📫 How to reach me: <a href="mailto:pedro.tobarra.leal@gmail.com">Pedro.tobarra.leal@gmail.com</a> </li>
     <li>⚡ Fun fact: sports enthusiast :P 🏃</li>
@@ -30,9 +30,9 @@
 
 <p>To learn SQL, I used <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/></a> and I've also practice SQL with: <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/></a>.</p>
 
-<p>I am currently learning: <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/></a>, <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/></a>, <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/></a></p>
+<p>I have numerous full-stack projects in my repos, using html, css, javascript and Django as a web framework.
 
-<p>The next thing I am planning on learning is: <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a></p>
+<p>The next thing I am planning on learning is probably Java and React</p>
 
 <h3>Contact me: 😜</h3>
 <hr>
