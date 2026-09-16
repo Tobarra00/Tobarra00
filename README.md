@@ -1,2 +1,1 @@
-Hello there! 
-Let's get to programming 💻
+## Hello there! **Let's get to programming 💻**
